@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Develory_Market", "Develory_Market\Develory_Market.csproj", "{77749523-A987-4DDB-B175-0FC14EE0E692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManager", "InventoryManager\InventoryManager.csproj", "{B4EFC9D0-2213-42C2-95E5-AE3F80C30422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryDash", "DeliveryDash\DeliveryDash\DeliveryDash.csproj", "{3DEA3034-25E8-461A-9600-D28B1DC2DB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryDash.Droid", "DeliveryDash\DeliveryDash.Droid\DeliveryDash.Droid.csproj", "{BD798462-D803-46D0-BDF7-A2CCAC97FFF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryDash.iOS", "DeliveryDash\DeliveryDash.iOS\DeliveryDash.iOS.csproj", "{9077CED2-C5DB-4335-9DDB-F808313ABB2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DeveloryDashPhone", "DeveloryDashPhone", "{58F92F4F-5C19-48DF-91D0-3646795EAF9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77749523-A987-4DDB-B175-0FC14EE0E692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77749523-A987-4DDB-B175-0FC14EE0E692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77749523-A987-4DDB-B175-0FC14EE0E692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77749523-A987-4DDB-B175-0FC14EE0E692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EFC9D0-2213-42C2-95E5-AE3F80C30422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EFC9D0-2213-42C2-95E5-AE3F80C30422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EFC9D0-2213-42C2-95E5-AE3F80C30422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EFC9D0-2213-42C2-95E5-AE3F80C30422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEA3034-25E8-461A-9600-D28B1DC2DB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEA3034-25E8-461A-9600-D28B1DC2DB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEA3034-25E8-461A-9600-D28B1DC2DB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEA3034-25E8-461A-9600-D28B1DC2DB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD798462-D803-46D0-BDF7-A2CCAC97FFF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD798462-D803-46D0-BDF7-A2CCAC97FFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD798462-D803-46D0-BDF7-A2CCAC97FFF7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BD798462-D803-46D0-BDF7-A2CCAC97FFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD798462-D803-46D0-BDF7-A2CCAC97FFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD798462-D803-46D0-BDF7-A2CCAC97FFF7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9077CED2-C5DB-4335-9DDB-F808313ABB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9077CED2-C5DB-4335-9DDB-F808313ABB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9077CED2-C5DB-4335-9DDB-F808313ABB2E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9077CED2-C5DB-4335-9DDB-F808313ABB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9077CED2-C5DB-4335-9DDB-F808313ABB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9077CED2-C5DB-4335-9DDB-F808313ABB2E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3DEA3034-25E8-461A-9600-D28B1DC2DB77} = {58F92F4F-5C19-48DF-91D0-3646795EAF9E}
+		{BD798462-D803-46D0-BDF7-A2CCAC97FFF7} = {58F92F4F-5C19-48DF-91D0-3646795EAF9E}
+		{9077CED2-C5DB-4335-9DDB-F808313ABB2E} = {58F92F4F-5C19-48DF-91D0-3646795EAF9E}
+	EndGlobalSection
+EndGlobal
