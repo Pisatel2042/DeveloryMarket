@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeliveryDash.iOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55a1f3c3ee59dd0f3631ae1ef96da54b10f0ec48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf2c3bb906d9a7142df1a907bfd8bd1c11ebdf22")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeliveryDash.iOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeliveryDash.iOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
